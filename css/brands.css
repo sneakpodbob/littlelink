@@ -838,6 +838,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* T2 */
+.button.button-t2social {
+  color: #ffffff;
+  background-color: #041912;
+}
+.button.button-t2social:hover,
+.button.button-t2social:focus {
+  filter: brightness(90%);
+}
+
 /* Telegram */
 .button.button-telegram {
   color: #ffffff;
