@@ -756,7 +756,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-
 /* Snapchat */
 .button.button-snapchat {
   color: #000000;
@@ -838,8 +837,8 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* T2 */
-.button.button-t2social {
+/* Pebble (formerly T2.social) */
+.button.button-pebble {
   color: #ffffff;
   background-color: #1a082e;
 }
