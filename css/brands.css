@@ -841,6 +841,7 @@ button:hover,
 .button.button-pebble {
   color: #ffffff;
   background-color: #1a082e;
+  border: 1px solid #FFFFFF;
 }
 .button.button-t2social:hover,
 .button.button-t2social:focus {
