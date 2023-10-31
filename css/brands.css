@@ -837,17 +837,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Pebble (formerly T2.social) */
-.button.button-pebble {
-  color: #ffffff;
-  background-color: #1a082e;
-  border: 1px solid #FFFFFF;
-}
-.button.button-t2social:hover,
-.button.button-t2social:focus {
-  filter: brightness(90%);
-}
-
 /* Telegram */
 .button.button-telegram {
   color: #ffffff;
