@@ -27,6 +27,7 @@ jobs:
           minify privacy.html > _site/privacy.html
           cp -r fonts/ _site/
           cp -r images/ _site/
+          cp keybase.txt _site/
           mkdir _site/css
           minify css/brands.css > _site/css/brands.css
           minify css/normalize.css > _site/css/normalize.css
