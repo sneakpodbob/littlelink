@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/robkrueger
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://links.robertkrueger.de
+  * I am robkrueger (https://keybase.io/robkrueger) on keybase.
+  * I have a public key ASA6Vn19RqGpz4Zce2DVYUZ6qLZWQfQTidt0NHNWrKMksQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010128105602a64944a2e4a1a6db63104cc6f7d5279a32da58db6ad44f90d7c0a4a80a",
+      "host": "keybase.io",
+      "kid": "01203a567d7d46a1a9cf865c7b60d561467aa8b65641f41389db74347356aca324b10a",
+      "uid": "f85fe5f5f80d154bafc40a7212cf0100",
+      "username": "robkrueger"
+    },
+    "merkle_root": {
+      "ctime": 1708602462,
+      "hash": "4f02439201ebc02ae12d46ec3c48fd6c9b8c0deff03d654abfeca7ae4dd26ed67dbc159e0f40412c35559f71782a98dfe2b756df41eb0ee18cb6b59803ceb078",
+      "hash_meta": "4505e0a5ea36b930f86fdd63b24cd648b1d3c3e71bb02bff837266510dc6566a",
+      "seqno": 25483393
+    },
+    "service": {
+      "entropy": "a2SsPiVXd6b04WdYqux87qGi",
+      "hostname": "links.robertkrueger.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.5"
+  },
+  "ctime": 1708602517,
+  "expire_in": 504576000,
+  "prev": "31286836a054cab6e7beb140f7de25e8f1f083e7a1b11081690ad4898549d4eb",
+  "seqno": 84,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOlZ9fUahqc+GXHtg1WFGeqi2VkH0E4nbdDRzVqyjJLEKp3BheWxvYWTESpcCVMQgMShoNqBUyrbnvrFA994l6PHwg+ehsRCBaQrUiYVJ1OvEIH3pZWKNgxDXBjmtpVlrNgfxWMYO/uqgYTFbRPCVwKnGAgHCo3NpZ8RApyInhqDTF5/RcYP3Z6oV/xKSU5lMdHAqNBW357CV87u+0ttHMX1/Tg7yORcni92VKjAECGSzWSnNJI1LCKBVBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIExHQgffwp1IQUK3QJ4eGn0/VJg0POG+VLcWtRY0/HSCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robkrueger
+
+==================================================================
