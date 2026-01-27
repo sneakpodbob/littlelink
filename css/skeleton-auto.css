@@ -54,6 +54,7 @@
   width: 100%;
   float: center;
   box-sizing: border-box;
+  margin-top: 10%;
 }
 
 /* For devices larger than 400px */
