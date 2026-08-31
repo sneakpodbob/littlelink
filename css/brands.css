@@ -546,6 +546,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Serializd */
+.button.button-serializd {
+  color: #ffffff;
+  background-color: #1A1F24;
+}
+.button.button-serializd:hover,
+.button.button-serializd:focus {
+  filter: brightness(90%);
+}
+
 /* Line */
 .button.button-line {
   color: #FFFFFF;
