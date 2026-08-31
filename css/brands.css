@@ -550,6 +550,7 @@ button:hover,
 .button.button-serializd {
   color: #ffffff;
   background-color: #1A1F24;
+  border: 1px solid #FFFFFF;
 }
 .button.button-serializd:hover,
 .button.button-serializd:focus {
